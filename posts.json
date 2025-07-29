@@ -1,8 +1,20 @@
 [
   {
-    "title": "My First Post",
-    "date": "2025-07-28",
-    "content": "This is my first blog post!",
-    "tags": ["intro", "javascript"]
+    "title": "Slain a Dragon!",
+    "date": "2024-09-27",
+    "content": "Slew a dragon just like Saint George and claimed it's gold horde!",
+    "tags": ["battle", "epic"]
+  }
+  {
+    "title": "Discovered a New World",
+    "date": "2025-07-20",
+    "content": "Traveled to distant far off lands and learned of many things.",
+    "tags": ["adventure", "travel"]
+  }
+  {
+    "title": "Made a Rock Think",
+    "date": "2025-06-14",
+    "content": "Infused a rock with arcane lightning magic to make it think and do my bidding.",
+    "tags": ["wow", "amazing"]
   }
 ]
